@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimalism", "Minimalism\Minimalism.csproj", "{3FA9A562-7E90-4A45-AE06-620E9C0B1204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FA9A562-7E90-4A45-AE06-620E9C0B1204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA9A562-7E90-4A45-AE06-620E9C0B1204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA9A562-7E90-4A45-AE06-620E9C0B1204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA9A562-7E90-4A45-AE06-620E9C0B1204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
